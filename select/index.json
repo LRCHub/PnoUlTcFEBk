@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "誰かのための言葉",
+  "base_artist": "名取さな",
+  "createdAt": "2026-01-04T03:14:33.884206Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "誰かのための言葉",
+      "artist": "名取さな",
+      "has_synced": false,
+      "path": "select/pl_01_誰かのための言葉_名取さな.txt"
+    }
+  ]
+}
